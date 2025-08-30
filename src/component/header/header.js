@@ -6,7 +6,7 @@ export default function Header() {
       <header>
           <Link to="/">home</Link>
           <Link to="/about">about</Link>
-      
+
     </header>
   )
 }
